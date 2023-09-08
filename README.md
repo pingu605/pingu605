@@ -2,14 +2,9 @@
 
 this is minsu park
 --------------------
+# 박민수의 깃허브
 ### Hi there 👋
-# a
-## b
-### c
-### b
-> a
->> b
->>> c
+> 저는 인공지능 분야에 관심이 많습니다!
 <!--
 **pingu605/pingu605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
